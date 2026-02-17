@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Resume
 ---
 
 {% include nav.md %}
 
-# Banger heading
+# Resume
 
-Yo this is a test
+will add something

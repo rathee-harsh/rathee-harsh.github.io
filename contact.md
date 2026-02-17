@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Contact
 ---
 
 {% include nav.md %}
 
-# Banger heading
+# Contact
 
-Yo this is a test
+contact form?
