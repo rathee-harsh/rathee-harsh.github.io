@@ -1,0 +1,20 @@
+/* Hide View on GitHub button */
+.page-header .btn {
+    display: none;
+}
+
+.site-nav {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.1em;
+}
+
+.site-nav a {
+    color: #00ffff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}

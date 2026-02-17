@@ -1,3 +1,3 @@
-[Home](/) | [Projects](/projects) | [Resume](/resume) | [Contact](/contact)
-
----
+<span class="site-nav">
+[Projects](/projects) | [Resume](/resume) | [Contact](/contact)
+</span>
