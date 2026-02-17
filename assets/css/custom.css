@@ -1,17 +1,28 @@
 /* Hide View on GitHub button */
 .page-header .btn {
-    display: none;
+    display: none !important;
 }
 
+/* Header as horizontal navbar */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Title on the left */
+.page-header h1 {
+    margin: 0;
+}
+
+/* Nav on the right */
 .site-nav {
-    display: block;
-    margin-top: 10px;
-    font-size: 1.1em;
+    font-size: 1em;
 }
 
 .site-nav a {
     color: #00ffff;
-    margin: 0 10px;
+    margin-left: 15px;
     text-decoration: none;
 }
 
